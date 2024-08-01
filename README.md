@@ -5,12 +5,17 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Clone:
 
    ```bash
    git clone https://github.com/PTPWK/project-login-react.git
+2. Install the dependencies
 
-
+    ```bash
+   npm install
+3. Start the development server
+    ```bash
+   npm run dev
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
