@@ -3,8 +3,12 @@
 การสร้างระบบล็อกอินด้วย React, Vite, Firebase และ Bootstrap
 การสร้างระบบล็อกอินเป็นฟีเจอร์ที่สำคัญในหลายๆ แอปพลิเคชันเว็บ เพื่อให้ผู้ใช้สามารถเข้าสู่ระบบและเข้าถึงเนื้อหาหรือฟังก์ชันที่ต้องการ บทความนี้จะพาคุณไปเรียนรู้การสร้างระบบล็อกอินด้วยเทคโนโลยียอดนิยม ได้แก่ React, Vite, Firebase และ Bootstrap
 
-git clone https://github.com/PTPWK/project-login-react.git
+## Installation
 
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/PTPWK/project-login-react.git
 
 
 
